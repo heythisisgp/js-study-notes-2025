@@ -1,0 +1,141 @@
+What is ES6 (ECMAScript) and Explain it's Features?
+
+First of all while explaining this we have to understand the difference between JavaScript & ECMAScript and then we can move for Definition and features of ES6.
+
+=> 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐯𝐬 𝐄𝐂𝐌𝐀𝐒𝐜𝐫𝐢𝐩𝐭
+- JavaScript and ECMAScript are two different names, but they have a very close relationship with each other. 
+- JavaScript itself is a language developed according to the standards defined by ECMAScript. That's the Reason why I'm differentiating both.
+
+=> 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐄𝐂𝐌𝐀𝐒𝐜𝐫𝐢𝐩𝐭?
+- ES6, also known as ECMAScript 2015, ES6 is the 6th major edition of the ECMAScript language specification that revolutionized JavaScript development.
+- It introduced powerful features that made coding more efficient, scalable, and easier to developer.
+
+=> 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐨𝐟 𝐄𝐂𝐌𝐀𝐒𝐜𝐫𝐢𝐩𝐭: 
+𝟏. 𝐋𝐞𝐭 𝐚𝐧𝐝 𝐂𝐨𝐧𝐬𝐭 𝐊𝐞𝐲𝐰𝐨𝐫𝐝𝐬: Block-scoped variables for cleaner, safer code.
+https://lnkd.in/dt2pmqkK
+
+𝟐. 𝐀𝐫𝐫𝐨𝐰 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬: Simplified function syntax with lexical this binding.
+https://lnkd.in/dWzcBX9P
+
+𝟑. 𝐌𝐮𝐥𝐭𝐢-𝐥𝐢𝐧𝐞 𝐒𝐭𝐫𝐢𝐧𝐠𝐬: Easy string handling for better readability.
+https://lnkd.in/dA6ANvPS
+
+𝟒. 𝐃𝐞𝐟𝐚𝐮𝐥𝐭 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬: Streamlines function arguments with default values.
+https://lnkd.in/d8NBGUz8
+
+𝟓. 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞 𝐋𝐢𝐭𝐞𝐫𝐚𝐥𝐬: Enhances string interpolation and formatting.
+https://lnkd.in/dkkPx8YX
+
+𝟔. 𝐃𝐞𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭: Effortlessly extract data from arrays and objects.
+https://lnkd.in/d__5zZfQ
+
+𝟕. 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐎𝐛𝐣𝐞𝐜𝐭 𝐋𝐢𝐭𝐞𝐫𝐚𝐥𝐬: Shorthand for defining properties and methods.
+https://lnkd.in/dAcDHwnu
+
+𝟖. 𝐏𝐫𝐨𝐦𝐢𝐬𝐞𝐬: Robust handling of asynchronous operations.
+https://lnkd.in/dZHdcUPR
+
+𝟗. 𝐂𝐥𝐚𝐬𝐬𝐞𝐬: Cleaner and more intuitive syntax for object-oriented programming.
+https://lnkd.in/dkzXbqPP
+
+𝟏𝟎. 𝐌𝐨𝐝𝐮𝐥𝐞𝐬: Built-in support for modular code organization.
+https://lnkd.in/dqQTjyjM
+
+These features makes JavaScript more powerful and developer friendly language. Whether you're building dynamic web apps or robust APIs, ES6 is a game-changer in our life.
+
+=> 𝐌𝐨𝐫𝐞 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥:
+1. JavaScript Roadmap: https://lnkd.in/duU8kYFQ
+2. JavaScript Interview Questions: https://lnkd.in/d9QNBYYP
+3. React Roadmap: https://lnkd.in/dqk2AbFu
+4. React Interview Questions: https://lnkd.in/dieFT34M
+5. React Learning Resources: https://lnkd.in/gMSJ7BwP
+6. Node JS Roadmap: https://lnkd.in/dEQpBNts
+7. Node JS Interview Questions: https://lnkd.in/dJyyBbFm
+
+=> 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 𝗟𝗲𝗮𝗿𝗻 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱
+1. Learn HTML, CSS, JS: 
+- Level Up Frontend by Himanshu Khosla https://lnkd.in/dkYk3Shv
+- Apana College by Shradha Khapra : https://lnkd.in/dCg_3Gbr
+2. Build App Clones with ReactJS (by Clever Programmer): https://lnkd.in/ddh2TaKu
+3. Master important JS concepts (Namaste JavaScript by Akshay Saini 🚀 ): https://lnkd.in/dFheg58V
+4. Make one kickass resume: https://lnkd.in/dB65MA5h
+5. Frontend Project Ideas: https://lnkd.in/dZ_zwigj
+
+=> 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝘁𝗼 𝗟𝗲𝗮𝗿𝗻 𝗡𝗼𝗱𝗲.𝗝𝘀 & 𝗠𝗘𝗥𝗡
+1. Master Backend Development (by Sheryians Coding School): https://lnkd.in/dMYtfFnq
+2. Master Node Js (by Piyush Garg) : https://lnkd.in/dr4ymbUW
+
+=> 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻
+1. JavaScript Interview Questions by RoadsideCoder.com: https://lnkd.in/dbNim_-S
+2. Frontend Interview questions(by jscafe - Vedant Jain) : https://lnkd.in/dMpYqR6n
+3. Applying to internships/ jobs online: https://lnkd.in/d93nE4e2
+4. Frontend Machine Coding by RoadsideCoder.com: https://lnkd.in/dr_WPR8B
+
+=> 𝗠𝗮𝘀𝘁𝗲𝗿 𝗗𝗦𝗔 𝘄𝗶𝘁𝗵 𝗝𝗦
+1. DSA with JS:https://lnkd.in/diK7sFvg
+2. DSA with JS (by jscafe- Vedant Jain): https://lnkd.in/dNgDJRPK
+
+=> 𝗥𝗼𝗮𝗱𝗠𝗮𝗽𝘀
+1. Frontend Roadmap: https://lnkd.in/dsxjepn7
+2. Full Stack Roadmap: https://lnkd.in/dkPq36PQ
+3. JavaScript Roadmap: https://lnkd.in/d4y7yqFz
+4. React Roadmap: 
+- https://lnkd.in/dgYPdrAG
+- https://lnkd.in/dN2bxJ-6
+5. Java Developer Roadmap: 
+- https://lnkd.in/dsMWBPHA
+- https://lnkd.in/dDiE5Ppu
+6. SpringBoot Roadmap: 
+- https://lnkd.in/dk6XiWJm
+- https://lnkd.in/dKSFzYSV
+7. Algorithms: https://lnkd.in/dqe42kVZ
+8. SQL Roadmap: https://lnkd.in/dYYsiWip
+9. DSA Roadmap: https://lnkd.in/gB9Hkcku
+
+=> 𝗙𝗶𝗻𝗮𝗹𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+1. React: https://lnkd.in/dieFT34M
+2. JavaScript​: https://lnkd.in/d8Eb9Q9q
+3. Node JS: 
+- https://lnkd.in/dZBzWdsn
+- https://lnkd.in/dXQC-4Uu
+4. Java : https://lnkd.in/dsMWBPHA
+5. SpringBoot: https://lnkd.in/eWBYWMQQ
+6. SQL: 
+- https://lnkd.in/dVnVWkja
+- https://lnkd.in/dfttbaZb
+- https://lnkd.in/dwbfSM8v
+
+📌 𝗔𝗽𝗽𝗹𝘆 𝗳𝗼𝗿 𝗷𝗼𝗯𝘀
+1. Search Job opportunities : https://lnkd.in/dFQtJtss
+2. Get 1500+ HR contact list : https://lnkd.in/dcwNYyHa
+
+🚀 Mastering Arrays in JavaScript! 🔢
+If you're into JavaScript, you've definitely worked with arrays. But do you know their time complexity and best use cases? Let’s break it down! 💡
+📌 What is an Array?
+An array is a linear data structure used to store multiple elements in a single variable. In JavaScript, arrays are dynamic and can store elements of different data types.
+🔥 Array Operations & Complexity
+🔹 Access (arr[i]) → ⏳ O(1), 📦 O(1)
+ 🔹 Search (arr.indexOf(x), arr.includes(x)) → ⏳ O(n), 📦 O(1)
+ 🔹 Insert at End (arr.push(x)) → ⏳ O(1), 📦 O(1)
+ 🔹 Insert at Start (arr.unshift(x)) → ⏳ O(n), 📦 O(1)
+ 🔹 Delete at End (arr.pop()) → ⏳ O(1), 📦 O(1)
+ 🔹 Delete at Start (arr.shift()) → ⏳ O(n), 📦 O(1)
+ 🔹 Sorting (arr.sort()) → ⏳ O(n log n), 📦 O(n)
+⚡ Key JavaScript Array Methods
+✅ map(), filter(), reduce() – Functional programming 🧠
+ ✅ slice() – Extract part of an array 🍕
+ ✅ splice() – Modify an array 🛠️
+ ✅ concat() – Merge multiple arrays 🔗
+ ✅ reverse() – Flip the order 🔄
+ ✅ find(), findIndex() – Find elements 🔍
+🔥 Best Practices with Arrays
+✔️ Use push() & pop() instead of shift() & unshift() for better performance.
+ ✔️ Prefer forEach() or map() over for loops for cleaner code.
+ ✔️ Use Typed Arrays (Int32Array, Float32Array) for performance in high-computation tasks.
+ ✔️ Avoid using nested loops inside array operations (O(n²) complexity).
+🧐 When NOT to Use Arrays?
+❌ When frequent insertions & deletions are needed (Use a Linked List instead).
+ ❌ If data needs to be quickly searched (Use a Hash Table).
+ ❌ When large datasets require efficient memory usage (Use Trees or Graphs).
+💡 Pro Tip: Use Set() instead of an array when working with unique values to improve lookup speed to O(1). 🚀
+💬 How do you optimize array operations in JavaScript?
