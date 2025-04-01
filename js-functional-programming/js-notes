@@ -1,0 +1,11 @@
+// core-concepts:
+// 1.Pure functions:
+// A pure function is a function that always returns the same output for the same input and has no side effects. This means that a pure function will not modify any external state or data. Pure functions are the building blocks of functional programming.
+
+// Pure function
+const concat = (arr, val) => [...arr, val];
+
+// Impure function
+const push = (arr, val) => arr.push(val);
+
+// 2.
